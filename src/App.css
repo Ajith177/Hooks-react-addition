@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,40 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+/* body
+{
+  background-color: #9266ff;
 }
+
+.App
+{
+  background-color: #3f3160;
+  min-height:500px;
+  width:400px;
+  margin:40px auto;
+}
+
+#to-do-form input{
+  background-color: rgb(27,112,137);
+  border:0;
+  width:200px;
+  padding:0 20px;
+  margin:20px;
+  font-size: 18px;
+  color:white;
+}
+
+#to-do-form input:focus{
+  outline:none;
+}
+
+#to-do-form button
+{
+  width:50px;
+  cursor:pointer;
+  background-color: brown;
+} */
